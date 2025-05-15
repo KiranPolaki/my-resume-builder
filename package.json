@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@google/genai": "^0.14.0",
+    "axios": "^1.9.0",
     "formidable": "^3.5.4",
     "next": "15.3.2",
     "node-latex": "^3.1.0",
